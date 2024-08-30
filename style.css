@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    padding: 20px;
+    height: 100px;
+}
+.caixa{
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+    color: aliceblue;
+    }
